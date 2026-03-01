@@ -84,32 +84,7 @@ Crafting interactive experiences from the ground up — mechanics, systems, shad
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anadisharma1501&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&show=reviews,discussions_started,prs_merged,prs_merged_percentage"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anadisharma1501&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=anadisharma1501&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=anadisharma1501&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&bg_color=0d1117&custom_title=📈%20Full%20Stats%20Overview" height="160" alt="Full Stats"/>
-
-</div>
-
----
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=anadisharma1501&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8&rank=SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies"/>
 
 </div>
 
