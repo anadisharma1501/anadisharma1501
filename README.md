@@ -19,7 +19,7 @@
 <br/>
 
 <!-- Profile View Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=anadisharma1501&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
 
 </div>
 
@@ -85,14 +85,14 @@ Crafting interactive experiences from the ground up — mechanics, systems, shad
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anadisharma1501&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anadisharma1501&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YourGitHubUsername&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=anadisharma1501&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF)](https://git.io/streak-stats)
 
 </div>
 
@@ -104,7 +104,7 @@ Crafting interactive experiences from the ground up — mechanics, systems, shad
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=tokyonight&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=anadisharma1501&theme=tokyonight&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -117,9 +117,9 @@ Crafting interactive experiences from the ground up — mechanics, systems, shad
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anadisharma1501/anadisharma1501/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anadisharma1501/anadisharma1501/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/anadisharma1501/anadisharma1501/output/github-snake.svg" />
 </picture>
 
 </div>
@@ -132,7 +132,7 @@ Crafting interactive experiences from the ground up — mechanics, systems, shad
 
 <div align="center">
 
-[![Anadi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F5FF&line=00F5FF&point=FF6B6B)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anadi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anadisharma1501&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F5FF&line=00F5FF&point=FF6B6B)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
