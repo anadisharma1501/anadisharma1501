@@ -5,6 +5,9 @@ on:
     - cron: "0 0,12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -16,12 +19,11 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: Selvaganesh19
+          github_user_name: anadisharma1501
           outputs: |
-            ./dist/github-snake.svg
-            ./dist/github-snake-dark.svg?palette=github-dark
-            palette: "[#ffffff,#1e90ff,#32cd32,#ffa500,#ff4500]"
-
+            dist/github-snake.svg?color_snake=%2300f5ff&color_dots=%230d1117,%23003d5c,%23006080,%2300a3cc,%2300f5ff
+            dist/github-snake-dark.svg?color_snake=%2300f5ff&color_dots=%230d1117,%23003d5c,%23006080,%2300a3cc,%2300f5ff
+            dist/github-snake.gif?color_snake=%2300f5ff&color_dots=%230d1117,%23003d5c,%23006080,%2300a3cc,%2300f5ff
 
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v3
