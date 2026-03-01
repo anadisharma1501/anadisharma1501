@@ -21,9 +21,9 @@ jobs:
         with:
           github_user_name: anadisharma1501
           outputs: |
-            dist/github-snake.svg?color_snake=%2300f5ff&color_dots=%230d1117,%23003d5c,%23006080,%2300a3cc,%2300f5ff
-            dist/github-snake-dark.svg?color_snake=%2300f5ff&color_dots=%230d1117,%23003d5c,%23006080,%2300a3cc,%2300f5ff
-            dist/github-snake.gif?color_snake=%2300f5ff&color_dots=%230d1117,%23003d5c,%23006080,%2300a3cc,%2300f5ff
+            dist/github-snake.svg?color_snake=%2300f5ff&color_dots=%231e2233,%23003d5c,%23006080,%2300a3cc,%2300f5ff
+            dist/github-snake-dark.svg?color_snake=%2300f5ff&color_dots=%231e2233,%23003d5c,%23006080,%2300a3cc,%2300f5ff
+            dist/github-snake.gif?color_snake=%2300f5ff&color_dots=%231e2233,%23003d5c,%23006080,%2300a3cc,%2300f5ff
 
       - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v3
