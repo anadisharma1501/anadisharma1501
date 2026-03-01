@@ -11,10 +11,9 @@
 <br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anadisharma15)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://anadisharma1501.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anadisharma1509@gmail.com)
 
 <br/>
 
@@ -34,7 +33,7 @@ class Anadi:
     def __init__(self):
         self.name        = "Anadi Sharma"
         self.roles       = ["Game Developer", "AI Engineer", "Cybersecurity Expert"]
-        self.languages   = ["Python", "C++", "C#", "Rust", "JavaScript"]
+        self.languages   = ["Python", "C++", "C#", "JavaScript"]
         self.passion     = "Turning complex problems into elegant solutions"
         self.hobbies     = ["CTF Challenges", "Game Jams", "Building Neural Nets from scratch"]
         self.currently   = "Building something that doesn't exist yet"
@@ -54,7 +53,7 @@ me.say_hello()
 
 <div align="center">
 
-> *"I don't just play games — I build the worlds inside them."*
+> *"I don't just play games - I build the worlds inside them."*
 
 </div>
 
@@ -152,9 +151,9 @@ Crafting interactive experiences from the ground up — mechanics, systems, shad
 
 *Open to collaborations on games, AI research, and security tooling.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.comin/anadisharma15)
 [![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord)](https://discord.com)
-[![Email](https://img.shields.io/badge/Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anadisharma1509@gmail.com)
 
 <br/>
 
