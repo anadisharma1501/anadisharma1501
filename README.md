@@ -67,13 +67,6 @@ Crafting interactive experiences from the ground up — mechanics, systems, shad
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![GLSL](https://img.shields.io/badge/GLSL%20Shaders-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
-![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
-
-**Highlights**
-- 🕹️ Shipped titles ranging from 2D pixel art to full 3D environments
-- ⚙️ Custom physics systems, procedural generation & AI-driven NPCs
-- 🎨 Shader development — post-processing effects, stylized rendering pipelines
 
 ---
 
