@@ -57,7 +57,7 @@ me.say_hello()
 
 </div>
 
-Crafting interactive experiences from the ground up — mechanics, systems, shaders, and everything in between. Whether it's a gritty roguelike or a physics-based sandbox, the goal is always to make something that *feels* right.
+Crafting interactive experiences from the ground up - mechanics, systems, shaders, and everything in between. Whether it's a gritty roguelike or a physics-based sandbox, the goal is always to make something that *feels* right.
 
 **Engines & Tools**
 
